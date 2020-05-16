@@ -1,0 +1,4 @@
+{
+    "presets":["@babel/preset-env"], // 语法
+    "plugins": ["@babel/plugin-transform-runtime", "@babel/plugin-proposal-class-properties"] // 插件
+}

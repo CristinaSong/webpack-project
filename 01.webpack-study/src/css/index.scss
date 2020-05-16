@@ -1,0 +1,18 @@
+html,
+body {
+    .box {
+        width: 220px;
+        height: 120px;
+        border: 1px solid #ff6347;
+        background: url(../images/img.png);
+        background-size: cover;
+    }
+
+    .box2 {
+        width: 220px;
+        height: 120px;
+        border: 1px solid #f00;
+        background: url(../images2/img2.png);
+        background-size: cover;
+    }
+}
